@@ -1,0 +1,2 @@
+1. Anillos Dyson en X JHK y JHHJK: Estos anillos están diseñados para rodear una estrella y emitir láseres de energía que calientan o enfrían el núcleo dependiendo de la estrella, diseñados para hacer estallar una estrella a Supernova. 
+2. Enjambre Hormiguero: Sistema de Bots diseñados para desintegrar materia a escala descomunal, miden de entre 1-14m de diámetro, la forma varia. Se usan para destruir planetas enteros, fueron retirados debido a lo dificil que eran de producir en masa.

@@ -1,0 +1,1 @@
+1. ZX3-334: Nave usada por el emperador de Azrabart para trasladarse, esta nave esta equipada con la mayor armada Azrana, desde cañones de riel de altisima presision, hasta motores de salto en red y guardas con armaduras Imperial-Y3 y Rifles Gen 12.

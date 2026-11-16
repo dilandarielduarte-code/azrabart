@@ -1,0 +1,1 @@
+Sistema de anillos de saltos de entre 4-6 anillos gigantescos diseñados para lanzar naves gigantes a través del hiperespacio, es un método usado para trasladar las naves a través de un espacio relativamente corto, no se usa para viajes mas largos debido a que solo lanza las naves a velocidades hiperluz. Para eso se usan los Sistemas de Salto por Agujero de Gusano ([[SSAG]])

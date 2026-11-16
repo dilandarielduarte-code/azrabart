@@ -1,0 +1,3 @@
+1. XL-5 y XL-5.4: Armaduras ligeras diseñadas para combate a corta distancia e infiltraciones, producidas en masa estas armaduras son usas para fuego cruzado, equipadas con cascos nanotecnológicos, pero a los soldados no usarlos casi nunca fueron eliminados en la XL-5.4.
+2. ZW3: Armaduras de combate pesadas reforzadas en Neutrinio sintético (Aleaciones hiper densas de Metales pesados), diseñadas para combate directo, para atacar [[Naves de Asedio]] e incluso [[Vehículos]] pesados o Fortificados, equipado con cañones de riel de precision media, que salen por encima del hombro izquierdo/derecho, y armas de plasma cargado Gen 4-12.
+3. Armaduras Gen +1: *Estas armaduras tienen su propio apartado* 

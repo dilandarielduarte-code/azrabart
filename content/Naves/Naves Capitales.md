@@ -1,3 +1,4 @@
-IMPERIAL-8 (Nave mente colmena que funciona por 12 naves menores que se acoplan entre si)
+1. IMPERIAL-8 (Nave mente colmena que funciona por 12 naves menores que se acoplan entre si), esta es una nave experimental de Azrabart, armada, con un  tamaño en escala de nivel estelar conocido como Atalaya leviatán, siendo inmensamente mas grande que un crucero de carga Interestelar. Consta con un sistema de multiples reactores de fusión diseñados par la energía general, y unos dos reactores de antimateria diseñados para las armas y subsistemas como comunicaciones y motores de salto por curvatura o receptores de los sistemas de Agujeros de gusano.
 Subderibadas de la IMPERIAL-8:
 IMPERIAL-8-1* -> IMPERIAL-8-12*
+2. 

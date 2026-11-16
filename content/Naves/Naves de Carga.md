@@ -1,3 +1,3 @@
-1. BCMEA-888 (Buque de Carga Militar Especialmente Armado) 
-2. BCEX-315 (Buque de Carga Experimental)
-3. XXX-Hartex (Buque Minero)
+1. BCMEA-888 (Buque de Carga Militar Especialmente Armado) Nave Vanguardia en transporte de armas, recursos y personal militar, capaz de transportar hasta 70,000t (Con un consumo mayor, obviamente) y hasta 500,000 tripulantes, siendo la primera nave Grande con motores de curvatura internos y SSAG juntos. teniendo un tamaño de unos 4km de largo x 2,14km de ancho y 1,23km de alto. Con 8 reactores repartidos por el interior, 2 en los motores, dos para los motores de salto y los otros 4 entre armas y electricidad general.
+2. BCEX-315 (Buque de Carga Experimental) Hermano del BCMEA-888, solo se fabricó 1, y se usó para experimentar con los reactores de antimateria que, a diferencia del 888, este usaba un único reactor y tenia 1\3 de su tamaño, por desgracia, un mal mantenimiento provoco que el reactor perdiera un 45% de estabilidad y explotara llevandose la vida de 245 Zephyrios, y 4000 Azranos.
+3. NCM-Y35: (Nave de Carga Menor) Naves de carga ligeras fabricadas en masa para transporte de personal, y suministros en flota, son naves con armas super basicas, comúnmente usadas para transportar medicos en el campo de combate. 
